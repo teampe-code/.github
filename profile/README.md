@@ -1,7 +1,5 @@
-## TeamPE 👋
+## TeamPE
 
-<!--
-
-**Here are some ideas to get you started:**
+Welcome to the organization page for TeamPE.
 
 
